@@ -1,4 +1,4 @@
-# arc42 Asciidoc Maven Template
+# arc42 Asciidoc Maven
 Dieses Template dient als Basis für die eigene Architekturdokumentation auf Basis des populären [arc42](http://www.arc42.de/)
  Templates.
  
